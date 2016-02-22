@@ -1,0 +1,16 @@
+player_left
+1 1
+41 41
+
+player_right
+42 1
+82 41
+
+player_up
+83 1
+123 41
+
+player_down
+124 1
+164 41
+

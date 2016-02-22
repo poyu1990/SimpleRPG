@@ -1,0 +1,15 @@
+r_bo_l1	r_bo_1	r_rr_1	gggg	r_ll_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_r1
+r_bo_l2	r_bo_3	r_rr_2	gggg	r_ll_1	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_r2
+r_rig_2	gggg	gggr	ggrr	ggrg	gggg	gggg	gggg	gggg	gggg	gggg	tree11	tree12	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	grgr	rrrr	rgrr	ggrg	gggg	gggg	gggg	gggg	bush	tree13	tree14	gggg	tree11	tree12	gggg	bush	gggg	r_lef_1
+r_rig_2	gggg	bush	rrgr	rrrr	rgrr	ggrg	gggg	gggg	gggg	gggg	tree15	tree16	gggg	tree13	tree14	gggg	bush	gggg	r_lef_2
+r_rig_1	gggg	gggg	grgr	rrrr	rrrr	rgrr	ggrr	ggrr	ggrg	gggg	gggg	gggg	gggg	tree15	tree16	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	gggg	grgg	rrgr	rrrr	rrrr	rrrr	rrrr	rgrr	ggrr	ggrg	bush	gggg	gggg	gggg	rock	gggg	gggg	r_lef_2
+r_rig_1	gggg	tree11	tree12	grgg	rrgr	rrrr	rrrr	rrrr	rrrr	rrrr	ggrr	ggrg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	tree13	tree14	gggg	grgg	rrgg	rrgg	rrgr	rrrr	rrrr	rrrr	rgrr	gggg	gggg	tree21	tree22	tree23	gggg	r_lef_2
+r_rig_1	gggg	tree15	tree16	gggg	gggg	gggg	gggg	grgg	rrgg	rrrr	rrrr	rrrr	rgrg	gggg	tree24	tree25	tree26	gggg	r_lef_1
+r_rig_2	gggg	gggg	gggg	gggg	tree21	tree22	tree23	gggg	gggg	rrgr	rrrr	rrrr	rgrg	gggg	tree27	tree28	tree29	gggg	r_lef_2
+r_rig_1	gggg	gggg	rock	gggg	tree24	tree25	tree26	gggg	gggg	grgr	rrrr	rrrr	rgrg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	bush	gggg	gggg	tree27	tree28	tree29	gggg	gggg	grgr	rrrr	rrrr	rgrg	rock	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	grgg	rrgg	rrgg	rggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_up_ri r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_up_le

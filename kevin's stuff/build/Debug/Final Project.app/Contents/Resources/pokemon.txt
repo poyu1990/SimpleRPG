@@ -1,0 +1,15 @@
+player_up
+230 1079
+244 1094
+
+player_right
+230 1102
+244	1117
+
+player_down
+230 1123
+244 1139
+
+player_left
+230 1148
+244 1163

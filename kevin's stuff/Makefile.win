@@ -1,0 +1,63 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe -D__DEBUG__
+CC   = gcc.exe -D__DEBUG__
+WINDRES = windres.exe
+RES  = 
+OBJ  = DevBuild/AnimationManager.o DevBuild/Animator.o DevBuild/BMPTexture.o DevBuild/GameDriver.o DevBuild/GraphicsInterface.o DevBuild/GraphicsManager.o DevBuild/main.o DevBuild/MemoryAllocator.o DevBuild/MemoryChunk.o DevBuild/Objects.o DevBuild/Renderer.o DevBuild/Sprite.o $(RES)
+LINKOBJ  = DevBuild/AnimationManager.o DevBuild/Animator.o DevBuild/BMPTexture.o DevBuild/GameDriver.o DevBuild/GraphicsInterface.o DevBuild/GraphicsManager.o DevBuild/main.o DevBuild/MemoryAllocator.o DevBuild/MemoryChunk.o DevBuild/Objects.o DevBuild/Renderer.o DevBuild/Sprite.o $(RES)
+LIBS =  -L"C:/Dev5/lib" -mwindows -lopenglut -lglu32 -lopengl32 -lwinmm -lgdi32  -g3 
+INCS =  -I"C:/Dev5/include" 
+CXXINCS =  -I"C:/Dev5/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev5/include/c++/3.4.2/backward"  -I"C:/Dev5/include/c++/3.4.2/mingw32"  -I"C:/Dev5/include/c++/3.4.2"  -I"C:/Dev5/include" 
+BIN  = Data/Project1.exe
+CXXFLAGS = $(CXXINCS) -DOPENGLUT_STATIC   -g3
+CFLAGS = $(INCS) -DOPENGLUT_STATIC   -g3
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Data/Project1.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Data\Project1.exe" $(LIBS)
+
+DevBuild/AnimationManager.o: Classes/AnimationManager.cpp
+	$(CPP) -c Classes/AnimationManager.cpp -o DevBuild/AnimationManager.o $(CXXFLAGS)
+
+DevBuild/Animator.o: Classes/Animator.cpp
+	$(CPP) -c Classes/Animator.cpp -o DevBuild/Animator.o $(CXXFLAGS)
+
+DevBuild/BMPTexture.o: Classes/BMPTexture.cpp
+	$(CPP) -c Classes/BMPTexture.cpp -o DevBuild/BMPTexture.o $(CXXFLAGS)
+
+DevBuild/GameDriver.o: Classes/GameDriver.cpp
+	$(CPP) -c Classes/GameDriver.cpp -o DevBuild/GameDriver.o $(CXXFLAGS)
+
+DevBuild/GraphicsInterface.o: Classes/GraphicsInterface.cpp
+	$(CPP) -c Classes/GraphicsInterface.cpp -o DevBuild/GraphicsInterface.o $(CXXFLAGS)
+
+DevBuild/GraphicsManager.o: Classes/GraphicsManager.cpp
+	$(CPP) -c Classes/GraphicsManager.cpp -o DevBuild/GraphicsManager.o $(CXXFLAGS)
+
+DevBuild/main.o: Classes/main.cpp
+	$(CPP) -c Classes/main.cpp -o DevBuild/main.o $(CXXFLAGS)
+
+DevBuild/MemoryAllocator.o: Classes/MemoryAllocator.cpp
+	$(CPP) -c Classes/MemoryAllocator.cpp -o DevBuild/MemoryAllocator.o $(CXXFLAGS)
+
+DevBuild/MemoryChunk.o: Classes/MemoryChunk.cpp
+	$(CPP) -c Classes/MemoryChunk.cpp -o DevBuild/MemoryChunk.o $(CXXFLAGS)
+
+DevBuild/Objects.o: Classes/Objects.cpp
+	$(CPP) -c Classes/Objects.cpp -o DevBuild/Objects.o $(CXXFLAGS)
+
+DevBuild/Renderer.o: Classes/Renderer.cpp
+	$(CPP) -c Classes/Renderer.cpp -o DevBuild/Renderer.o $(CXXFLAGS)
+
+DevBuild/Sprite.o: Classes/Sprite.cpp
+	$(CPP) -c Classes/Sprite.cpp -o DevBuild/Sprite.o $(CXXFLAGS)

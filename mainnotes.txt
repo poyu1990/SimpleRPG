@@ -1,0 +1,21 @@
+See the final folder here. Just makin' this file for when we really ramp up, chillin' for this weekend, then I'll be in lab alll day Tues. Maybe busy with studying for math, but also around to help steer development of the RPG program too. -Max
+
+New update: I've got the system working and a mockup of the battle system running--with Chuck Norris fighting evil ninjas. All I need is access to the more updated character class so I can make it more diverse. It's looking good on my end. -Max
+	
+	Big update, I have most of the graphics working. Right now it is using a pokemon sprite sheet.  You can use the arrow keys to move the guy around.  The exploding pokemon center was just there to stress test the graphics, but it gives an example of how to use the graphics.  I will probably have to explain to you guys how to use the graphics.  I still need to add the ability to add a grid of sprites, right now you can only create one at a time.
+	The gameDriver class is where you guys will add your code.  I marked where you can add your stuff with comments, basically the private section of the header, and everything in the .cpp file above the line.
+	There are three functions where your code will be called.  gameStep() is called 60 times a second, and the glutInput() and glutSpecialInput() are called whenever there is keyboard input.
+	The project should still be building properly on both xCode and Dev-C++. For Dev-C++, you need to install the "openGlut" package.
+	I've been eyeing these free graphics: http://www.lostgarden.com/2006/07/more-free-game-graphics.html
+-Kevin
+
+Sweet graphics you picked there, Kevin, those are good. Also I can compile your code without errors. I'll just need Ben to upload his latest character class--or we can talk Tuesday about it. Either case, once I have that, I can trivially finish the battle stuff and work on the levelling up next, then probably multitask because my end isn't shaping up to be terribly complex. I'll have some potential storyboards too, maybe keeping in mind those graphics you have there, Kevin. -Max
+
+Also, moved this to the main folder so everyone could see it (or would look for it) -Max
+
+reminder to everyone, we do have a chatroom build dedicated for this so we don't have to use a hard to read text file -Benson
+
+http://cs810.chatango.com/
+yea that one
+
+Whoops, my bad. -Max

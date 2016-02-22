@@ -1,0 +1,38 @@
+<?PHP
+// Determines cost of a level.
+function levelcost($inputnum){
+	switch($inputnum)
+	{
+		case 2:
+		return 2;
+		break;
+		case 3:
+		return 6;
+		break;
+		case 4:
+		return 14;
+		break;
+		case 5:
+		return 26;
+		break;
+		case 6:
+		return 42;
+		break;
+		case 7:
+		return 62;
+		break;
+		case 8:
+		return 86;
+		break;
+		case 9:
+		return 110;
+		break;
+		case 10:
+		return 200;
+		break;
+		default:
+		return 9001;
+	}
+}
+
+?>

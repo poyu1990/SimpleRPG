@@ -1,0 +1,15 @@
+paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1
+fenc1	fenc2	fenc4	paved1	paved1	fenc1	fenc2	fenc3	fenc2	fenc3	fenc2	fenc3	fenc2	fenc3	fenc2	fenc3	fenc2	fenc3	fenc2	fenc4
+fenc5	fenc6	fenc8	paved1	paved1	fenc5	fenc6	fenc7	fenc6	fenc7	fenc6	fenc7	fenc6	fenc7	fenc6	fenc7	fenc6	fenc7	fenc6	fenc8
+fenc9	fenc10  fenc12	paved1	paved1	fenc9	fenc10	fenc11	fenc10	fenc11	fenc10	fenc11	fenc10	fenc11	fenc10	fenc11	fenc10	fenc11	fenc10	fenc12
+paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	house1	house2	house3	house4	house5	house6	house7	house8
+paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	house11	house12	house13	house14	house15	house16	house17	house18
+paved1	paved1	rchar1	paved1	paved1	paved1	lchar1	paved1	paved1	paved1	paved1	paved1	house21	house22	house23	house24	house25	house26	house27	house28
+paved1	paved1	rchar2	table1	table2	table3	lchar2	paved1	paved1	paved1	paved1	paved1	house31	house32	house33	house34	house35	house36	house37	house38
+paved1	paved1	rchar1	table4	table5	table6	lchar1	paved1	paved1	paved1	paved1	paved1	house41	house42	house43	house44	house45	house46	house47	house48
+paved1	paved1	rchar2	table7	table8	table9	lchar2	paved1	paved1	paved1	paved1	paved1	house51	house52	house53	house54	house55	house56	house57	house58
+paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	house61	house62	house63	house64	house65	house66	house67	house68
+paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1
+pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo	pav_bo
+r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6	r_mid_6
+r_mid_3 r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_3	r_mid_2	r_mid_6	r_mid_6	r_mid_6	r_mid_6

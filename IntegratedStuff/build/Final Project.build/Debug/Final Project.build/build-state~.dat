@@ -1,0 +1,1867 @@
+TFinal Project
+v7
+r0
+t298450240.726506
+cCheck dependencies
+cProcessInfoPlistFile "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist" "Final Project-Info.plist"
+cCpResource "build/Debug/Final Project.app/Contents/Resources/textureList.txt" Data/textureList.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/background.bmp" Data/background.bmp
+cCpResource "build/Debug/Final Project.app/Contents/Resources/background.txt" Data/background.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/objects.bmp" Data/objects.bmp
+cCpResource "build/Debug/Final Project.app/Contents/Resources/objects.txt" Data/objects.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/arial.bmp" Data/arial.bmp
+cCpResource "build/Debug/Final Project.app/Contents/Resources/arial.txt" Data/arial.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/bat.txt" Data/bat.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/menu.bmp" Data/menu.bmp
+cCpResource "build/Debug/Final Project.app/Contents/Resources/menu.txt" Data/menu.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level1_collide.txt" Data/level1_collide.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level1.txt" Data/level1.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level2_collide.txt" Data/level2_collide.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level2.txt" Data/level2.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level3_collide.txt" Data/level3_collide.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level3.txt" Data/level3.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level4_collide.txt" Data/level4_collide.txt
+cCpResource "build/Debug/Final Project.app/Contents/Resources/level4.txt" Data/level4.txt
+cProcessPCH++ /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h.gch /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cLd "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project" normal i386
+cTouch "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app"
+
+N/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004B448B6700000000000017ED
+t1262783335
+s6125
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B44A0F3000000000000578C
+t1262788851
+s22412
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004B824D230000000000001659
+t1266830627
+s5721
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004C1171400000000000043300
+t1276211520
+s275200
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp
+c000000004C104A200000000000000888
+t1276135968
+s2184
+i"AnimationManager.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.h
+c000000004C1046FE000000000000031D
+t1276135166
+s797
+i"Sprite.h"
+i"Animator.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp
+c000000004C1127A80000000000000C35
+t1276192680
+s3125
+i"Animator.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.h
+c000000004C1046FE000000000000053F
+t1276135166
+s1343
+i"Sprite.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp
+c000000004C0C2F460000000000000567
+t1275866950
+s1383
+i"BMPTexture.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.h
+c000000004C09AE520000000000000190
+t1275702866
+s400
+i<string>
+i<fstream>
+i"OpenGL.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp
+c000000004C11CFD20000000000000790
+t1276235730
+s1936
+i"Equip.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.h
+c000000004C11D0B4000000000000032C
+t1276235956
+s812
+i<iostream>
+i<cstdlib>
+i"Item.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp
+c000000004C1942550000000000004C77
+t1276723797
+s19575
+i"GameDriver.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.h
+c000000004C191A8400000000000005E8
+t1276713604
+s1512
+i<stdlib.h>
+i<ctime>
+i<string>
+i<sstream>
+i"character.h"
+i"battle.h"
+i"GraphicsInterface.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp
+c000000004C1144980000000000000305
+t1276200088
+s773
+i"GraphicsInterface.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.h
+c000000004C11449800000000000002AD
+t1276200088
+s685
+i"GraphicsManager.h"
+i"AnimationManager.h"
+i"Objects.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp
+c000000004C16CB9A00000000000004E1
+t1276562330
+s1249
+i"GraphicsManager.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.h
+c000000004C09BEC80000000000000200
+t1275707080
+s512
+i<vector>
+i<string>
+i"OpenGL.h"
+i"Renderer.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp
+c000000004C11D0BA0000000000000133
+t1276235962
+s307
+i"HealItem.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.h
+c000000004C11D1AC00000000000000EF
+t1276236204
+s239
+i<cstdlib>
+i<iostream>
+i"Item.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp
+c000000004C1154FC0000000000000B29
+t1276204284
+s2857
+i"Item.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.h
+c000000004C1155500000000000000202
+t1276204368
+s514
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp
+c000000004C0A92EC00000000000012DA
+t1275761388
+s4826
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.h
+c000000004C0990860000000000000509
+t1275695238
+s1289
+i<vector>
+i"MemoryChunk.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp
+c000000004C09907A000000000000023B
+t1275695226
+s571
+i"MemoryChunk.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.h
+c000000004C09A78C0000000000000307
+t1275701132
+s775
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp
+c000000004C11D6E900000000000013F4
+t1276237545
+s5108
+i"Objects.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.h
+c000000004C104520000000000000079E
+t1276134688
+s1950
+i"GraphicsManager.h"
+i"AnimationManager.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/OpenGL.h
+c000000004C09E7FE00000000000000A9
+t1275717630
+s169
+i<windows.h>
+i<GL/openglut.h>
+i<GL/glext.h>
+i<GLUT/glut.h>
+i<OpenGL/OpenGL.h>
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp
+c000000004C09FCCA0000000000000831
+t1275722954
+s2097
+i"Renderer.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.h
+c000000004C080A700000000000000235
+t1275595376
+s565
+i<string>
+i<vector>
+i"OpenGL.h"
+i"MemoryAllocator.h"
+i"Sprite.h"
+i"BMPTexture.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp
+c000000004C103C840000000000000D26
+t1276132484
+s3366
+i"Sprite.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.h
+c000000004C103C54000000000000046B
+t1276132436
+s1131
+i<cmath>
+i<string>
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp
+c000000004C11329E00000000000008CA
+t1276195486
+s2250
+i"attack.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.h
+c000000004C11329E00000000000001DF
+t1276195486
+s479
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp
+c000000004C11E9E6000000000000175A
+t1276242406
+s5978
+i"battle.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.h
+c000000004C13D82900000000000001E7
+t1276368937
+s487
+i<cstdlib>
+i<iostream>
+i"character.h"
+i"attack.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp
+c000000004C187ED20000000000000B74
+t1276673746
+s2932
+i"character.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.h
+c000000004C187EB200000000000004FD
+t1276673714
+s1277
+i<iostream>
+i<cstdlib>
+i<sstream>
+i<string.h>
+i"Item.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp
+c000000004C11DF840000000000000683
+t1276239748
+s1667
+i<stdlib.h>
+i"OpenGL.h"
+i"GameDriver.h"
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/arial.bmp
+c000000004C11B7550000000000400036
+t1276229461
+s4194358
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/arial.txt
+c000000004C16CA2200000000000005D2
+t1276561954
+s1490
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/background.bmp
+c000000004C1940440000000000400036
+t1276723268
+s4194358
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/background.txt
+c000000004C1940700000000000000AE2
+t1276723312
+s2786
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/bat.txt
+c000000004C1347CD00000000000005E9
+t1276331981
+s1513
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/level1.txt
+c000000004C191E3000000000000006AF
+t1276714544
+s1711
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/level2.txt
+c000000004C1941EB00000000000006DF
+t1276723691
+s1759
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/level3.txt
+c000000004C193DF20000000000000866
+t1276722674
+s2150
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/level4.txt
+c000000004C1928410000000000000833
+t1276717121
+s2099
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/menu.bmp
+c000000004C1347630000000000100036
+t1276331875
+s1048630
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/menu.txt
+c000000004C13479E00000000000000C3
+t1276331934
+s195
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/objects.bmp
+c000000004C0C2EF40000000000100036
+t1275866868
+s1048630
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/objects.txt
+c000000004C0C2D360000000000000071
+t1275866422
+s113
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Data/textureList.txt
+c000000004C133DD2000000000000001D
+t1276329426
+s29
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app
+t1276723968
+s102
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist
+t1276723934
+s843
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project
+t1276723968
+s239256
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/PkgInfo
+t1276723934
+s8
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/arial.bmp
+t1276723934
+s4194358
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/arial.txt
+t1276723934
+s1490
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/background.bmp
+t1276723934
+s4194358
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/background.txt
+t1276723934
+s2786
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/bat.txt
+t1276723934
+s1513
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level1.txt
+t1276723934
+s1711
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level2.txt
+t1276723934
+s1759
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level3.txt
+t1276723934
+s2150
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level4.txt
+t1276723934
+s2099
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/menu.bmp
+t1276723934
+s1048630
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/menu.txt
+t1276723934
+s195
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/objects.bmp
+t1276723934
+s1048630
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/objects.txt
+t1276723934
+s113
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/textureList.txt
+t1276723934
+s29
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o
+t1276723959
+s90520
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o
+t1276723959
+s54684
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o
+t1276723960
+s84448
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o
+t1276723964
+s60088
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Final Project.LinkFileList
+c000000004C1942DE00000000000009FF
+t1276723934
+s2559
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o
+t1276723963
+s175824
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o
+t1276723960
+s100760
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o
+t1276723961
+s137408
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o
+t1276723964
+s50564
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o
+t1276723964
+s55748
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o
+t1276723961
+s76472
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o
+t1276723961
+s26596
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o
+t1276723962
+s137152
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o
+t1276723962
+s137052
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o
+t1276723962
+s46228
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o
+t1276723963
+s56008
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o
+t1276723963
+s84836
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o
+t1276723964
+s85236
+
+N/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o
+t1276723960
+s49948
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level1.txt
+c000000004C196F3300000000000006F7
+t1276735283
+s1783
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level1_collide.txt
+c000000004C19A1F300000000000002EB
+t1276748275
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level2.txt
+c000000004C1941EB00000000000006DF
+t1276723691
+s1759
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level2_collide.txt
+c000000004C199F6800000000000002EB
+t1276747624
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level3.txt
+c000000004C19A2850000000000000866
+t1276748421
+s2150
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level3_collide.txt
+c000000004C19A38900000000000002EB
+t1276748681
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level4.txt
+c000000004C1967BA000000000000080A
+t1276733370
+s2058
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/../OldIntegratedStuff/Data/level4_collide.txt
+c000000004C199D2100000000000002EB
+t1276747041
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp
+c000000004C104A200000000000000888
+t1276135968
+s2184
+i"AnimationManager.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.h
+c000000004C1046FE000000000000031D
+t1276135166
+s797
+i"Sprite.h"
+i"Animator.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp
+c000000004C1127A80000000000000C35
+t1276192680
+s3125
+i"Animator.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.h
+c000000004C1046FE000000000000053F
+t1276135166
+s1343
+i"Sprite.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp
+c000000004C0C2F460000000000000567
+t1275866950
+s1383
+i"BMPTexture.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.h
+c000000004C09AE520000000000000190
+t1275702866
+s400
+i<string>
+i<fstream>
+i"OpenGL.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp
+c000000004C11CFD20000000000000790
+t1276235730
+s1936
+i"Equip.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.h
+c000000004C11D0B4000000000000032C
+t1276235956
+s812
+i<iostream>
+i<cstdlib>
+i"Item.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp
+c000000004C19C41600000000000043D1
+t1276757014
+s17361
+i"GameDriver.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.h
+c000000004C19C416000000000000075E
+t1276757014
+s1886
+i<stdlib.h>
+i<ctime>
+i<string>
+i<sstream>
+i"character.h"
+i"battle.h"
+i"GraphicsInterface.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp
+c000000004C1144980000000000000305
+t1276200088
+s773
+i"GraphicsInterface.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.h
+c000000004C11449800000000000002AD
+t1276200088
+s685
+i"GraphicsManager.h"
+i"AnimationManager.h"
+i"Objects.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp
+c000000004C16CB9A00000000000004E1
+t1276562330
+s1249
+i"GraphicsManager.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.h
+c000000004C09BEC80000000000000200
+t1275707080
+s512
+i<vector>
+i<string>
+i"OpenGL.h"
+i"Renderer.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp
+c000000004C11D0BA0000000000000133
+t1276235962
+s307
+i"HealItem.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.h
+c000000004C11D1AC00000000000000EF
+t1276236204
+s239
+i<cstdlib>
+i<iostream>
+i"Item.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp
+c000000004C1154FC0000000000000B29
+t1276204284
+s2857
+i"Item.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.h
+c000000004C1155500000000000000202
+t1276204368
+s514
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp
+c000000004C0A92EC00000000000012DA
+t1275761388
+s4826
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.h
+c000000004C0990860000000000000509
+t1275695238
+s1289
+i<vector>
+i"MemoryChunk.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp
+c000000004C09907A000000000000023B
+t1275695226
+s571
+i"MemoryChunk.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.h
+c000000004C09A78C0000000000000307
+t1275701132
+s775
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp
+c000000004C11D6E900000000000013F4
+t1276237545
+s5108
+i"Objects.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.h
+c000000004C104520000000000000079E
+t1276134688
+s1950
+i"GraphicsManager.h"
+i"AnimationManager.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/OpenGL.h
+c000000004C09E7FE00000000000000A9
+t1275717630
+s169
+i<windows.h>
+i<GL/openglut.h>
+i<GL/glext.h>
+i<GLUT/glut.h>
+i<OpenGL/OpenGL.h>
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp
+c000000004C09FCCA0000000000000831
+t1275722954
+s2097
+i"Renderer.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.h
+c000000004C080A700000000000000235
+t1275595376
+s565
+i<string>
+i<vector>
+i"OpenGL.h"
+i"MemoryAllocator.h"
+i"Sprite.h"
+i"BMPTexture.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp
+c000000004C103C840000000000000D26
+t1276132484
+s3366
+i"Sprite.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.h
+c000000004C103C54000000000000046B
+t1276132436
+s1131
+i<cmath>
+i<string>
+i"MemoryAllocator.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp
+c000000004C11329E00000000000008CA
+t1276195486
+s2250
+i"attack.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.h
+c000000004C11329E00000000000001DF
+t1276195486
+s479
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp
+c000000004C1999F00000000000001760
+t1276746224
+s5984
+i"battle.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.h
+c000000004C1999F000000000000001E9
+t1276746224
+s489
+i<cstdlib>
+i<iostream>
+i"character.h"
+i"attack.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp
+c000000004C19C5350000000000000D9E
+t1276757301
+s3486
+i"character.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.h
+c000000004C19BC9C0000000000000635
+t1276755100
+s1589
+i<iostream>
+i<cstdlib>
+i<sstream>
+i<string.h>
+i"Item.h"
+i"GraphicsInterface.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp
+c000000004C11DF840000000000000683
+t1276239748
+s1667
+i<stdlib.h>
+i"OpenGL.h"
+i"GameDriver.h"
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.bmp
+c000000004C11B7550000000000400036
+t1276229461
+s4194358
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.txt
+c000000004C16CA2200000000000005D2
+t1276561954
+s1490
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.bmp
+c000000004C19738D0000000000400036
+t1276736397
+s4194358
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.txt
+c000000004C1974990000000000000F40
+t1276736665
+s3904
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/bat.txt
+c000000004C1347CD00000000000005E9
+t1276331981
+s1513
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1.txt
+c000000004C196F3300000000000006F7
+t1276735283
+s1783
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1_collide.txt
+c000000004C19A1F300000000000002EB
+t1276748275
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2.txt
+c000000004C1941EB00000000000006DF
+t1276723691
+s1759
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2_collide.txt
+c000000004C199F6800000000000002EB
+t1276747624
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3.txt
+c000000004C19A2850000000000000866
+t1276748421
+s2150
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3_collide.txt
+c000000004C19A38900000000000002EB
+t1276748681
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4.txt
+c000000004C1967BA000000000000080A
+t1276733370
+s2058
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4_collide.txt
+c000000004C199D2100000000000002EB
+t1276747041
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.bmp
+c000000004C1347630000000000100036
+t1276331875
+s1048630
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.txt
+c000000004C13479E00000000000000C3
+t1276331934
+s195
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.bmp
+c000000004C19B27C0000000000100036
+t1276752508
+s1048630
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.txt
+c000000004C19B29900000000000000BD
+t1276752537
+s189
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/textureList.txt
+c000000004C133DD2000000000000001D
+t1276329426
+s29
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app
+t1276757440
+s102
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist
+t1276757428
+s843
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project
+t1276757440
+s239472
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/PkgInfo
+t1276757428
+s8
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/arial.bmp
+t1276757428
+s4194358
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/arial.txt
+t1276757428
+s1490
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/background.bmp
+t1276757428
+s4194358
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/background.txt
+t1276757428
+s3904
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/bat.txt
+t1276757428
+s1513
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level1.txt
+t1276757428
+s1783
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level1_collide.txt
+t1276757428
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level2.txt
+t1276757428
+s1759
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level2_collide.txt
+t1276757428
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level3.txt
+t1276757428
+s2150
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level3_collide.txt
+t1276757428
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level4.txt
+t1276757428
+s2058
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/level4_collide.txt
+t1276757428
+s747
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/menu.bmp
+t1276757428
+s1048630
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/menu.txt
+t1276757428
+s195
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/objects.bmp
+t1276757428
+s1048630
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/objects.txt
+t1276757428
+s189
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources/textureList.txt
+t1276757428
+s29
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o
+t1276757434
+s90508
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o
+t1276757434
+s54668
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o
+t1276757435
+s84432
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o
+t1276757439
+s60072
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Final Project.LinkFileList
+c000000004C19C5B40000000000000981
+t1276757428
+s2433
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o
+t1276757438
+s186332
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o
+t1276757435
+s100744
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o
+t1276757436
+s137396
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o
+t1276757439
+s50548
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o
+t1276757439
+s55732
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o
+t1276757436
+s76456
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o
+t1276757436
+s26584
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o
+t1276757437
+s137144
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o
+t1276757437
+s137040
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o
+t1276757437
+s46212
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o
+t1276757437
+s55996
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o
+t1276757438
+s118084
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o
+t1276757438
+s130536
+
+N/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o
+t1276757436
+s49936
+
+N/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/usr/include/string.h
+c000000004AC326060000000000001731
+t1254303238
+s5937
+
+N/var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h.gch
+t1276723956
+s61162480
+
+N/var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h.gch
+t1276757434
+s61162480
+
+NFinal Project-Info.plist
+c000000004C001F96000000000000037F
+t1275076502
+s895
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298450228#298450228#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416756.843334
+e298416759.548425
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp298416756#298416759#0(0"0(0#0#86"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp4300911832#1719"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/AnimationManager.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450234.216815
+e298450234.771350
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp298450234#298450234#0(0"0(0#0#79"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp4300911832#1634"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/AnimationManager.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/AnimationManager.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416756.859259
+e298416759.524566
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp298416756#298416759#0(0"0(0#0#78"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp4300911832#1703"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Animator.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450234.247114
+e298450234.684821
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp298450234#298450234#0(0"0(0#0#71"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp4300911832#1618"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Animator.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Animator.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416759.524789
+e298416760.108987
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp298416759#298416760#0(0"0(0#0#80"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp4300911832#1707"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/BMPTexture.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450234.684920
+e298450235.226555
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp298450234#298450235#0(0"0(0#0#73"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp4300911832#1622"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/BMPTexture.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/BMPTexture.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416763.695644
+e298416764.315277
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp298416763#298416764#0(0"0(0#0#75"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp4300911832#1697"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Equip.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450238.701229
+e298450239.235451
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp298450238#298450239#0(0"0(0#0#68"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp4300911832#1612"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Equip.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Equip.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416762.222452
+e298416763.127309
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp298416762#298416763#0(0"0(0#0#80"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp4300911832#1707"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GameDriver.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450237.126028
+e298450238.151383
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp298450237#298450238#0(0"0(0#0#73"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp4300911832#1622"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GameDriver.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GameDriver.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416759.548526
+e298416760.372422
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp298416759#298416760#0(0"0(0#0#87"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp4300911832#1721"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsInterface.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450234.771456
+e298450235.352968
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp298450234#298450235#0(0"0(0#0#80"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp4300911832#1636"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsInterface.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsInterface.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416760.109089
+e298416761.117833
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp298416760#298416761#0(0"0(0#0#85"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp4300911832#1717"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/GraphicsManager.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450235.226676
+e298450236.058153
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp298450235#298450236#0(0"0(0#0#78"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp4300911832#1632"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/GraphicsManager.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/GraphicsManager.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416764.156749
+e298416764.792556
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp298416764#298416764#0(0"0(0#0#78"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp4300911832#1703"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/HealItem.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450238.862308
+e298450239.327499
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp298450238#298450239#0(0"0(0#0#71"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp4300911832#1618"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/HealItem.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/HealItem.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416764.315573
+e298416764.878309
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp298416764#298416764#0(0"0(0#0#74"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp4300911832#1695"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Item.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450239.235550
+e298450239.663787
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp298450239#298450239#0(0"0(0#0#67"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp4300911832#1610"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Item.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Item.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416760.965444
+e298416761.488560
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp298416760#298416761#0(0"0(0#0#85"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp4300911832#1717"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryAllocator.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450236.058379
+e298450236.450598
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp298450236#298450236#0(0"0(0#0#78"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp4300911832#1632"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryAllocator.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryAllocator.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416761.118136
+e298416761.457837
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp298416761#298416761#0(0"0(0#0#81"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp4300911832#1709"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/MemoryChunk.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450236.121488
+e298450236.359144
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp298450236#298450236#0(0"0(0#0#74"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp4300911832#1624"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/MemoryChunk.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/MemoryChunk.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416761.457962
+e298416762.222344
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp298416761#298416762#0(0"0(0#0#77"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp4300911832#1701"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Objects.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450236.359374
+e298450237.125909
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp298450236#298450237#0(0"0(0#0#70"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp4300911832#1616"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Objects.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Objects.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416761.488661
+e298416762.129675
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp298416761#298416762#0(0"0(0#0#78"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp4300911832#1703"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Renderer.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450236.450707
+e298450237.095085
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp298450236#298450237#0(0"0(0#0#71"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp4300911832#1618"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Renderer.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Renderer.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416762.129776
+e298416762.584049
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp298416762#298416762#0(0"0(0#0#76"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp4300911832#1699"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/Sprite.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450237.095192
+e298450237.498572
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp298450237#298450237#0(0"0(0#0#69"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp4300911832#1614"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/Sprite.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Sprite.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416762.584155
+e298416763.400342
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp298416762#298416763#0(0"0(0#0#76"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp4300911832#1699"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/attack.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450237.498681
+e298450237.993301
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp298450237#298450237#0(0"0(0#0#69"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp4300911832#1614"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/attack.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/attack.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416763.127614
+e298416763.695456
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp298416763#298416763#0(0"0(0#0#76"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp4300911832#1699"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/battle.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450237.994770
+e298450238.701128
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp298450237#298450238#0(0"0(0#0#69"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp4300911832#1614"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/battle.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/battle.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416763.400490
+e298416764.156641
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp298416763#298416764#0(0"0(0#0#79"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp4300911832#1705"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/character.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450238.151492
+e298450238.862202
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp298450238#298450238#0(0"0(0#0#72"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp4300911832#1620"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/character.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/character.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o" "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp" normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416760.372531
+e298416760.965343
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp298416760#298416760#0(0"0(0#0#74"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp4300911832#1695"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Classes/main.cpp" -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o" /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450235.353071
+e298450236.121382
+r1
+xCompileC
+xbuild/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp298450235#298450236#0(0"0(0#0#67"/Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp4300911832#1610"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -include /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h -c /Users/bovinedragon/Software/XCode/IntegratedStuff/Classes/main.cpp -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/main.o"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/arial.bmp" Data/arial.bmp
+s298450228.438963
+e298450228.556906
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/arial.bmp
+xData/arial.bmp
+lSLF07#2@19"Copy Data/arial.bmp298450228#298450228#0(0"0(0#0#65"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.bmp4300911832#374"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.bmp "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/arial.txt" Data/arial.txt
+s298450228.442980
+e298450228.473542
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/arial.txt
+xData/arial.txt
+lSLF07#2@19"Copy Data/arial.txt298450228#298450228#0(0"0(0#0#65"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.txt4300911832#374"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/arial.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/background.bmp" Data/background.bmp
+s298450228.405667
+e298450228.522825
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/background.bmp
+xData/background.bmp
+lSLF07#2@24"Copy Data/background.bmp298450228#298450228#0(0"0(0#0#70"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.bmp4300911832#379"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.bmp "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/background.txt" Data/background.txt
+s298450228.410593
+e298450228.473214
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/background.txt
+xData/background.txt
+lSLF07#2@24"Copy Data/background.txt298450228#298450228#0(0"0(0#0#70"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.txt4300911832#379"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/background.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/bat.txt" Data/bat.txt
+s298450228.457007
+e298450228.473650
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/bat.txt
+xData/bat.txt
+lSLF07#2@17"Copy Data/bat.txt298450228#298450228#0(0"0(0#0#63"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/bat.txt4300911832#372"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/bat.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level1.txt" ../OldIntegratedStuff/Data/level1.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level1.txt" Data/level1.txt
+s298450228.475364
+e298450228.506371
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level1.txt
+xData/level1.txt
+lSLF07#2@20"Copy Data/level1.txt298450228#298450228#0(0"0(0#0#66"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1.txt4300911832#375"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level1_collide.txt" ../OldIntegratedStuff/Data/level1_collide.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level1_collide.txt" Data/level1_collide.txt
+s298450228.473729
+e298450228.506246
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level1_collide.txt
+xData/level1_collide.txt
+lSLF07#2@28"Copy Data/level1_collide.txt298450228#298450228#0(0"0(0#0#74"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1_collide.txt4300911832#383"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level1_collide.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level2.txt" ../OldIntegratedStuff/Data/level2.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level2.txt" Data/level2.txt
+s298450228.487130
+e298450228.506667
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level2.txt
+xData/level2.txt
+lSLF07#2@20"Copy Data/level2.txt298450228#298450228#0(0"0(0#0#66"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2.txt4300911832#375"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level2_collide.txt" ../OldIntegratedStuff/Data/level2_collide.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level2_collide.txt" Data/level2_collide.txt
+s298450228.480230
+e298450228.506555
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level2_collide.txt
+xData/level2_collide.txt
+lSLF07#2@28"Copy Data/level2_collide.txt298450228#298450228#0(0"0(0#0#74"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2_collide.txt4300911832#383"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level2_collide.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level3.txt" ../OldIntegratedStuff/Data/level3.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level3.txt" Data/level3.txt
+s298450228.498159
+e298450228.523086
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level3.txt
+xData/level3.txt
+lSLF07#2@20"Copy Data/level3.txt298450228#298450228#0(0"0(0#0#66"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3.txt4300911832#375"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level3_collide.txt" ../OldIntegratedStuff/Data/level3_collide.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level3_collide.txt" Data/level3_collide.txt
+s298450228.489028
+e298450228.522953
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level3_collide.txt
+xData/level3_collide.txt
+lSLF07#2@28"Copy Data/level3_collide.txt298450228#298450228#0(0"0(0#0#74"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3_collide.txt4300911832#383"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level3_collide.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level4.txt" ../OldIntegratedStuff/Data/level4.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level4.txt" Data/level4.txt
+s298450228.518372
+e298450228.523263
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level4.txt
+xData/level4.txt
+lSLF07#2@20"Copy Data/level4.txt298450228#298450228#0(0"0(0#0#66"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4.txt4300911832#375"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level4_collide.txt" ../OldIntegratedStuff/Data/level4_collide.txt
+r0
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/level4_collide.txt" Data/level4_collide.txt
+s298450228.516393
+e298450228.522697
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/level4_collide.txt
+xData/level4_collide.txt
+lSLF07#2@28"Copy Data/level4_collide.txt298450228#298450228#0(0"0(0#0#74"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4_collide.txt4300911832#383"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/level4_collide.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/menu.bmp" Data/menu.bmp
+s298450228.465101
+e298450228.506792
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/menu.bmp
+xData/menu.bmp
+lSLF07#2@18"Copy Data/menu.bmp298450228#298450228#0(0"0(0#0#64"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.bmp4300911832#373"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.bmp "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/menu.txt" Data/menu.txt
+s298450228.471032
+e298450228.516258
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/menu.txt
+xData/menu.txt
+lSLF07#2@18"Copy Data/menu.txt298450228#298450228#0(0"0(0#0#64"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.txt4300911832#373"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/menu.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/objects.bmp" Data/objects.bmp
+s298450228.416303
+e298450228.473328
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/objects.bmp
+xData/objects.bmp
+lSLF07#2@21"Copy Data/objects.bmp298450228#298450228#0(0"0(0#0#67"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.bmp4300911832#376"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.bmp "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/objects.txt" Data/objects.txt
+s298450228.417757
+e298450228.473434
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/objects.txt
+xData/objects.txt
+lSLF07#2@21"Copy Data/objects.txt298450228#298450228#0(0"0(0#0#67"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.txt4300911832#376"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/objects.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Final Project.app/Contents/Resources/textureList.txt" Data/textureList.txt
+s298450228.404884
+e298450228.473083
+r1
+xCpResource
+xbuild/Debug/Final Project.app/Contents/Resources/textureList.txt
+xData/textureList.txt
+lSLF07#2@25"Copy Data/textureList.txt298450228#298450228#0(0"0(0#0#71"/Users/bovinedragon/Software/XCode/IntegratedStuff/Data/textureList.txt4300911832#380"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/bovinedragon/Software/XCode/IntegratedStuff/Data/textureList.txt "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Resources"0#
+
+CLd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project" normal i386
+s298416764.878409
+e298416768.356157
+r1
+xLd
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project
+xnormal
+xi386
+lSLF07#2@121"Link /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project298416764#298416768#0(0"0(0#0#0"4300911832#622"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    /Developer/usr/bin/g++-4.2 -arch i386 "-L/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" -filelist "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Final Project.LinkFileList" -framework Foundation -framework AppKit -framework GLUT -framework OpenGL -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project"0#
+
+CLd "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project" normal i386
+s298450239.664005
+e298450240.722354
+r1
+xLd
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project
+xnormal
+xi386
+lSLF07#2@114"Link /Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project298450239#298450240#0(0"0(0#0#0"4300911832#581"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /Developer/usr/bin/g++-4.2 -arch i386 -L/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -filelist "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Objects-normal/i386/Final Project.LinkFileList" -framework Foundation -framework AppKit -framework GLUT -framework OpenGL -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/MacOS/Final Project"0#
+
+CProcessInfoPlistFile "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist" "Final Project-Info.plist"
+s298416734.791861
+e298416734.816049
+r1
+xProcessInfoPlistFile
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist
+xFinal Project-Info.plist
+lSLF07#2@32"Process Final Project-Info.plist298416734#298416734#0(0"0(0#0#82"/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/Final Project-Info.plist4300911832#393"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    builtin-infoPlistUtility "Final Project-Info.plist" -genpkginfo "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist" "Final Project-Info.plist"
+s298450228.396262
+e298450228.404793
+r1
+xProcessInfoPlistFile
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist
+xFinal Project-Info.plist
+lSLF07#2@32"Process Final Project-Info.plist298450228#298450228#0(0"0(0#0#75"/Users/bovinedragon/Software/XCode/IntegratedStuff/Final Project-Info.plist4300911832#370"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    builtin-infoPlistUtility "Final Project-Info.plist" -genpkginfo "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app/Contents/Info.plist"0#
+
+CProcessPCH++ /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h.gch /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298416735.119821
+e298416756.843088
+r1
+xProcessPCH++
+x/var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h.gch
+x/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h298416735#298416756#0(0"0(0#0#60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4300911832#1542"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" "-F/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/include" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -c /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-dgdgqleykhqkllewvjavqorzkztt/AppKit.h.gch0#
+
+CProcessPCH++ /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h.gch /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s298450228.557033
+e298450234.216577
+r1
+xProcessPCH++
+x/var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h.gch
+x/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Precompile /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h298450228#298450234#0(0"0(0#0#60"/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h4300911832#1473"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-generated-files.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-own-target-headers.hmap" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-all-target-headers.hmap" -iquote "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/Final Project-project-headers.hmap" -F/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug -I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/include "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources/i386" "-I/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Final Project.build/Debug/Final Project.build/DerivedSources" -c /System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/LS/LST+hmxLHUidK4lNKqzU3E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gmtkdgvgqidgjjebonpdzdmxeyzn/AppKit.h.gch0#
+
+CTouch "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app"
+s298416768.356376
+e298416768.362775
+r1
+xTouch
+x/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app
+lSLF07#2@93"Touch /Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app298416768#298416768#0(0"0(0#0#0"4300911832#179"    cd "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff"    /usr/bin/touch -c "/Users/bovinedragon/Dropbox/Final Project/IntegratedStuff/build/Debug/Final Project.app"0#
+
+CTouch "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app"
+s298450240.722452
+e298450240.726335
+r1
+xTouch
+x/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app
+lSLF07#2@86"Touch /Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app298450240#298450240#0(0"0(0#0#0"4300911832#163"    cd /Users/bovinedragon/Software/XCode/IntegratedStuff    /usr/bin/touch -c "/Users/bovinedragon/Software/XCode/IntegratedStuff/build/Debug/Final Project.app"0#
+

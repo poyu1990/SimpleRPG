@@ -1,0 +1,15 @@
+r_bo_l1	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_r1
+r_bo_l2	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_r2
+r_rig_2	gggg	gggr	ggrr	ggrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	grgr	rrrr	rgrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	grgg	rrgg	rggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggr	ggrr	ggrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	gggg	gggg	gggg	gggg	gggg	gggg	grgr	rrrr	rgrr	ggrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	grgr	rrrr	rrrr	rgrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	gggg	gggg	gggg	gggg	gggg	gggg	grgg	rrgr	rrrr	rgrg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	grgg	rrgg	rggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_up_ri r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_up_le

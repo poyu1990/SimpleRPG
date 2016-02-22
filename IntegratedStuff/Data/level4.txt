@@ -1,0 +1,15 @@
+lfen1	fenc13	fenc3	fenc13	fenc13	fenc3	fenc13	fenc13	fenc3	fenc13	fenc13	fenc3	fenc13	fenc13	fenc3	fenc13	fenc13	fenc3	fenc13	rfen1
+lfen2	fenc14	fenc7	fenc14	fenc14	fenc7	fenc14	fenc14	fenc7	fenc14	fenc14	fenc7	fenc14	fenc14	fenc7	fenc14	fenc14	fenc7	fenc14	rfen2
+lfen3	fenc15	fenc11	fenc15	fenc15	fenc11	fenc15	fenc15	fenc11	fenc15	fenc15	fenc11	fenc15	fenc15	fenc11	fenc15	fenc15	fenc11	fenc15	rfen3	
+lfen4	paved1	paved2	paved1	paved3	paved1	paved2	paved1	paved1	paved1	paved4	paved1	paved1	paved2	paved4	paved1	paved1	paved3	paved1	rfen4
+lfen4	paved1	paved1	paved1	paved4	paved1	paved4	paved1	paved1	paved1	paved2	paved1	paved3	paved1	paved1	paved2	paved1	paved1	paved1	rfen4
+lfen4	paved1	paved3	paved1	paved1	paved3	paved1	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved1	paved3	paved4	paved1	paved1	rfen4
+lfen4	paved2	paved1	paved1	paved1	paved2	paved4	paved1	paved1	paved3	paved1	paved1	paved2	paved1	paved1	paved1	paved1	paved3	paved4	rfen4
+lfen4	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved1	paved2	paved1	rfen4
+lfen4	paved1	paved2	paved1	paved1	paved3	paved3	paved1	paved1	paved1	paved1	paved1	paved3	paved1	paved2	paved1	paved1	paved1	paved3	rfen4
+lfen4	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	rfen4
+lfen4	paved1	paved4	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved2	paved1	paved1	paved4	rfen4
+lfen4	paved1	paved1	paved1	paved1	paved4	paved1	paved1	paved4	paved4	paved1	paved1	paved1	paved3	paved1	paved1	paved1	paved1	paved1	rfen4
+lfen5	paved1	paved3	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved1	paved4	paved1	paved4	paved1	paved1	paved1	paved2	paved1	rfen5
+lfen6	paved3	paved1	paved1	paved3	paved1	paved4	paved4	paved4	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved1	paved3	rfen6
+lfen7	paved1	paved2	paved1	paved3	paved1	paved1	paved1	paved2	paved1	paved1	paved1	paved1	paved1	paved4	paved1	paved1	paved3	paved1	rfen7

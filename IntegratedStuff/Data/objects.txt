@@ -1,0 +1,31 @@
+player_left
+1 1
+41 41
+
+player_right
+42 1
+82 41
+
+player_up
+83 1
+123 41
+
+player_down
+124 1
+164 41
+
+enemy_left
+165 1
+206 41
+
+sign
+207 1
+249 41
+
+gateman
+250 1
+285 41
+
+googly
+285 1
+325 41

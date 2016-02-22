@@ -1,0 +1,81 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = DevBuild/AnimationManager.o DevBuild/Animator.o DevBuild/BMPTexture.o DevBuild/GameDriver.o DevBuild/GraphicsInterface.o DevBuild/GraphicsManager.o DevBuild/main.o DevBuild/MemoryAllocator.o DevBuild/MemoryChunk.o DevBuild/Objects.o DevBuild/Renderer.o DevBuild/Sprite.o DevBuild/HealItem.o DevBuild/Item.o DevBuild/attack.o DevBuild/battle.o DevBuild/character.o DevBuild/Equip.o $(RES)
+LINKOBJ  = DevBuild/AnimationManager.o DevBuild/Animator.o DevBuild/BMPTexture.o DevBuild/GameDriver.o DevBuild/GraphicsInterface.o DevBuild/GraphicsManager.o DevBuild/main.o DevBuild/MemoryAllocator.o DevBuild/MemoryChunk.o DevBuild/Objects.o DevBuild/Renderer.o DevBuild/Sprite.o DevBuild/HealItem.o DevBuild/Item.o DevBuild/attack.o DevBuild/battle.o DevBuild/character.o DevBuild/Equip.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" -mwindows -lopenglut -lglu32 -lopengl32 -lwinmm -lgdi32  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = Data/Project1.exe
+CXXFLAGS = $(CXXINCS) -DOPENGLUT_STATIC  
+CFLAGS = $(INCS) -DOPENGLUT_STATIC  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Data/Project1.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Data\Project1.exe" $(LIBS)
+
+DevBuild/AnimationManager.o: Classes/AnimationManager.cpp
+	$(CPP) -c Classes/AnimationManager.cpp -o DevBuild/AnimationManager.o $(CXXFLAGS)
+
+DevBuild/Animator.o: Classes/Animator.cpp
+	$(CPP) -c Classes/Animator.cpp -o DevBuild/Animator.o $(CXXFLAGS)
+
+DevBuild/BMPTexture.o: Classes/BMPTexture.cpp
+	$(CPP) -c Classes/BMPTexture.cpp -o DevBuild/BMPTexture.o $(CXXFLAGS)
+
+DevBuild/GameDriver.o: Classes/GameDriver.cpp
+	$(CPP) -c Classes/GameDriver.cpp -o DevBuild/GameDriver.o $(CXXFLAGS)
+
+DevBuild/GraphicsInterface.o: Classes/GraphicsInterface.cpp
+	$(CPP) -c Classes/GraphicsInterface.cpp -o DevBuild/GraphicsInterface.o $(CXXFLAGS)
+
+DevBuild/GraphicsManager.o: Classes/GraphicsManager.cpp
+	$(CPP) -c Classes/GraphicsManager.cpp -o DevBuild/GraphicsManager.o $(CXXFLAGS)
+
+DevBuild/main.o: Classes/main.cpp
+	$(CPP) -c Classes/main.cpp -o DevBuild/main.o $(CXXFLAGS)
+
+DevBuild/MemoryAllocator.o: Classes/MemoryAllocator.cpp
+	$(CPP) -c Classes/MemoryAllocator.cpp -o DevBuild/MemoryAllocator.o $(CXXFLAGS)
+
+DevBuild/MemoryChunk.o: Classes/MemoryChunk.cpp
+	$(CPP) -c Classes/MemoryChunk.cpp -o DevBuild/MemoryChunk.o $(CXXFLAGS)
+
+DevBuild/Objects.o: Classes/Objects.cpp
+	$(CPP) -c Classes/Objects.cpp -o DevBuild/Objects.o $(CXXFLAGS)
+
+DevBuild/Renderer.o: Classes/Renderer.cpp
+	$(CPP) -c Classes/Renderer.cpp -o DevBuild/Renderer.o $(CXXFLAGS)
+
+DevBuild/Sprite.o: Classes/Sprite.cpp
+	$(CPP) -c Classes/Sprite.cpp -o DevBuild/Sprite.o $(CXXFLAGS)
+
+DevBuild/HealItem.o: Classes/HealItem.cpp
+	$(CPP) -c Classes/HealItem.cpp -o DevBuild/HealItem.o $(CXXFLAGS)
+
+DevBuild/Item.o: Classes/Item.cpp
+	$(CPP) -c Classes/Item.cpp -o DevBuild/Item.o $(CXXFLAGS)
+
+DevBuild/attack.o: Classes/attack.cpp
+	$(CPP) -c Classes/attack.cpp -o DevBuild/attack.o $(CXXFLAGS)
+
+DevBuild/battle.o: Classes/battle.cpp
+	$(CPP) -c Classes/battle.cpp -o DevBuild/battle.o $(CXXFLAGS)
+
+DevBuild/character.o: Classes/character.cpp
+	$(CPP) -c Classes/character.cpp -o DevBuild/character.o $(CXXFLAGS)
+
+DevBuild/Equip.o: Classes/Equip.cpp
+	$(CPP) -c Classes/Equip.cpp -o DevBuild/Equip.o $(CXXFLAGS)

@@ -1,0 +1,15 @@
+r_bo_l1	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_2	r_bo_1	r_bo_r1	r_mid_5	r_mid_6	r_mid_6	r_mid_6	r_mid_6
+r_bo_l2	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_4	r_bo_3	r_bo_r2	r_mid_4	r_mid_6	r_mid_6	r_mid_6	r_mid_6
+r_rig_2	gggg	gggg	gggg	gggg	gggg	gggg	gggg	bush	bush	gggg	gggg	gggg	gggg	r_lef_3	r_ble_1	r_mid_3	r_mid_2	r_mid_3	r_mid_2
+r_rig_1	bush	bush	bush	bush	gggg	bush	gggg	gggg	gggg	gggg	gggg	bush	gggg	r_ll_2	r_ble_2	r_bo_2	r_bo_1l	r_bo_2	r_bo_r1
+r_rig_2	gggg	gggg	gggg	bush	gggg	bush	bush	bush	bush	bush	gggg	bush	gggg	r_ll_1	r_ble_3	r_bo_4	r_bo_3l	r_bo_4	r_bo_r2
+r_rig_1	gggg	bush	gggg	bush	gggg	gggg	bush	gggg	gggg	bush	gggg	gggg	bush	gggg	gggg	bush	gggg	bush	r_lef_1
+r_rig_2	gggg	bush	gggg	gggg	gggg	gggg	bush	gggg	gggg	bush	bush	gggg	gggg	gggg	bush	bush	gggg	bush	r_lef_2
+r_rig_1	gggg	bush	bush	bush	bush	gggg	bush	bush	gggg	gggg	gggg	gggg	bush	bush	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	bush	gggg	gggg	gggg	gggg	gggg	gggg	bush	bush	bush	bush	gggg	gggg	bush	bush	bush	gggg	r_lef_2
+r_rig_1	gggg	bush	gggg	bush	bush	bush	bush	gggg	gggg	gggg	bush	gggg	bush	gggg	gggg	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	bush	gggg	gggg	bush	gggg	bush	gggg	bush	gggg	bush	gggg	bush	bush	bush	bush	bush	gggg	r_lef_2
+r_rig_1	gggg	bush	bush	gggg	gggg	gggg	bush	gggg	bush	gggg	bush	gggg	gggg	gggg	bush	gggg	gggg	gggg	r_lef_1
+r_rig_2	gggg	bush	bush	bush	gggg	bush	bush	gggg	bush	gggg	bush	gggg	bush	gggg	bush	gggg	bush	gggg	r_lef_2
+r_rig_1	gggg	gggg	gggg	bush	gggg	gggg	gggg	gggg	bush	gggg	gggg	gggg	bush	gggg	gggg	gggg	bush	gggg	r_lef_1
+r_up_ri r_top_1	r_rr_3	gggg	r_ll_3	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_top_1	r_top_2	r_up_le
